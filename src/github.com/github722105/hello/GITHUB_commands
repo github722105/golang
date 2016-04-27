@@ -1,0 +1,3 @@
+   65  git remote add gogithub https://github.com/github722105/golang
+   70  git pull  gogithub master
+   71  git push gogithub
